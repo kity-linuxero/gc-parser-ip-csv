@@ -20,5 +20,9 @@ Se han procesado 49 IPs
 
 ```
 
+## Descargar ejecutable
+
+Puede descargar el archivo ejecutable desde <a href="./parser_labeler.exe" download>Aquí</a>
+
 
 
