@@ -13,7 +13,7 @@ Se debe ejecutar como `./parser_labeler.exe`. Los siguientes parámetros están 
 ## Ejemplo:
 
 ```powershell
-./parse_labeler.exe -o top_ips.csv -o archivo_exportado.csv -t "BAD_IPS"
+./parse_labeler.exe -o top_ips.csv -o archivo_exportado.csv -t BAD_IPS
 
 Se terminó el proceso sin errores:
 Se han procesado 49 IPs
