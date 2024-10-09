@@ -22,7 +22,7 @@ Se han procesado 49 IPs
 
 ## Descargar ejecutable
 
-Puede descargar el archivo ejecutable desde <a href="./parser_labeler.exe" download>Aquí</a>
+Puede descargar el archivo ejecutable desde <a href="https://github.com/kity-linuxero/gc-parser-ip-csv/releases/download/v1.0/parser_labeler.exe" download>aquí</a> o ver los detalles de la release [aquí](https://github.com/kity-linuxero/gc-parser-ip-csv/releases/tag/v1.0).
 
 
 
